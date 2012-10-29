@@ -6,7 +6,7 @@ Write Device Pixel Ratio to Cookie.
 Usage
 -----
 
-Include `src/dpr-cookie.js` into your web page.
+Include `src/device-pixel-ratio.js` into your web page.
 
 License
 -------
